@@ -1,4 +1,4 @@
-#Enunciado | Concurso Musical
+# Enunciado | Concurso Musical
 Criar um projeto Java chamado ConcursoMusical, com as classes Candidato, Juri e Concurso.
 A classe Candidato possui as características de um candidato em um concurso ou competição
 musical. Cada candidato terá os dados a seguir: número do candidato, cpf, nome, idade, sexo e
